@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/RichEdit_GetPositionFromPoint/Form1.cs) (VB: [Form1.vb](./VB/RichEdit_GetPositionFromPoint/Form1.vb))
+<!-- default file list end -->
 # How to obtain the Document Position under the mouse cursor
 
 
