@@ -8,7 +8,8 @@
     <ProjectGuid>{B6766AEF-5BBA-4CB4-8FCE-5F81F944D5D8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>
+    </RootNamespace>
     <AssemblyName>RichEdit_GetPositionFromPoint</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
